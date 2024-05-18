@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=WelCome&fontSize=90&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=반갑습니다😊&fontSize=90&fontAlignY=40" />
 
 <!-- 공부 -->
 <h1>:books: Technology Stack </h1>
